@@ -4,7 +4,7 @@
 
 It's a  Simple Weather Application made by using HTML, CSS &amp; JavaScript.
 
-The app is created by [J. Priyanshu Agrawal](https://www.linkedin.com/in/priyanshu-agrawal-83b268291/) for helping out the beginners on how to make Simple Weather Application using HTML, CSS &amp; JavaScript
+The app is created by [ Priyanshu Agrawal](https://www.linkedin.com/in/priyanshu-agrawal-83b268291/) for helping out the beginners on how to make Simple Weather Application using HTML, CSS &amp; JavaScript
 
 ## Show some :heart: and :star: the repo if you like the design.
 
